@@ -11,9 +11,9 @@ A Basic CRUD application has been created for flight Booking
 
 Serach using following criterias:
 Origin:							Destination:
-Acapulco						Accra
-Abu Dhabi						Abuja
-Abidjan							Abilene, TX
-Aberdeen						Aberdeen, SD
-Aarhus							Abbotsford, BC
+Acapulco						Accra  |	
+Abu Dhabi						Abuja  |	
+Abidjan							Abilene, TX	| 	
+Aberdeen						Aberdeen, SD 	|	
+Aarhus							Abbotsford, BC	|	
 Aalborg							Aalesund
